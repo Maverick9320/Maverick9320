@@ -4,9 +4,9 @@
   - Sports, Stats, Analytics and Visualizations
 
 ### My Repositories
-  - [RugbyPython](https://github.com/Maverick9320/rugby.python-viz)
-  - [entropy.Random Data Generator](https://github.com/Maverick9320/entropy.random-data-generator)
-  - [Match Event Coder Tkinter App](https://github.com/Maverick9320/TKinter-Match-Event-Coder)
+  - [RugbyPython](https://github.com/Maverick9320/rugby.python-viz) | Easily plot rugby pitches for visualizations
+  - [entropy.Random Data Generator](https://github.com/Maverick9320/entropy.random-data-generator) | Output dataframes with filtered, random data
+  - [Match Event Coder Tkinter App](https://github.com/Maverick9320/TKinter-Match-Event-Coder) | Record events within a rugby match as the occur
 
 <!---
 Maverick9320/Maverick9320 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
